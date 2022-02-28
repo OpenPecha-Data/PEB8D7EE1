@@ -1,0 +1,19 @@
+id: cdc526fc00144ec18277eb1545600a59
+annotation_type: Segment
+revision: '00001'
+annotations:
+  39c0bea52d524326982b3a20f990375f:
+    span:
+      start: 0
+      end: 22
+    metadata: {}
+  cc4407cc95334392a9e5b2bc3662c19e:
+    span:
+      start: 24
+      end: 963
+    metadata: {}
+  fe833a2304e241409f4178d0354994d5:
+    span:
+      start: 965
+      end: 1207
+    metadata: {}
